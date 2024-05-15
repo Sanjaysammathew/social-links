@@ -1,0 +1,35 @@
+.all{
+    display: inline-block;
+    background-color: rgba(44, 43, 43, 0.966);
+    color: white;
+    padding: 20px;
+}
+.color{
+    color: greenyellow;
+}
+.center{
+    text-align: center;
+}
+#blog{
+    padding: 20px;
+}
+.but{
+    padding: 20px;
+    padding-right: 40%;
+    padding-left: 40%;
+    background-color:  rgba(44, 43, 43, 0.966);
+    color: white;
+}
+.but:hover{
+    background-color: yellowgreen;
+}
+.in{
+    margin-top: 20px;
+ }
+ .bu{
+    padding: 20px;
+    padding-right: 43%;
+    padding-left: 40%;
+    background-color:  rgba(44, 43, 43, 0.966);
+    color: white;
+ }
